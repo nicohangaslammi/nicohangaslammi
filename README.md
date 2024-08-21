@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+⚡ Fun fact: When you are born you are the worlds youngest person for a while, and when you die you're the oldest 🤯🤯
+
 <!--
 **nicohangaslammi/nicohangaslammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

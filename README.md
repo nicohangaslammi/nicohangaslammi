@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ⚡ Fun fact: When you are born you are the worlds youngest person for a while, and when you die you're the oldest 🤯🤯
 
 <!--
